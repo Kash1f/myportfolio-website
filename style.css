@@ -395,6 +395,9 @@ p {
 }
 #contact .contact-items {
 	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 30px;
 	
 }
 #contact .contact-item {
